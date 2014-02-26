@@ -1,0 +1,17 @@
+//
+//  ServiceFunUUID.h
+//  PeripheralModeTest
+//
+//  Created by fenda-fly on 13-8-22.
+//  Copyright (c) 2013年 Oltica. All rights reserved.
+//
+
+#ifndef PeripheralModeTest_ServiceFunUUID_h
+#define PeripheralModeTest_ServiceFunUUID_h
+
+#define BLETRANSFER_TEST_SERVICE_UUID   @"48C9D8B8-5114-4146-A1B2-98C65EF4C2FD"
+#define BLETRABSFER_TEST_CHARARCTERRISTIC_WRITE_UUID     @"09DFD523-73FC-4009-ABAC-6F7A201A5049"
+#define BLETRABSFER_TEST_CHARARCTERRISTIC_READ_UUID      @"E88B8265-BDB8-4E12-9F43-8ECBF042EC64"
+#define BLETRABSFER_TEST_CHARARCTERRISTIC_NOYIFY_UUID    @"001F1B25-931F-4968-9FFB-B84E4A262FAC"
+
+#endif
